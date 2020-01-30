@@ -14,4 +14,5 @@ namespace TravelEasy.Models
 
         public DbSet<Product> Products { get; set; }
     }
+
 }

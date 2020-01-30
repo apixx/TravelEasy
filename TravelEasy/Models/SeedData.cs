@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace TravelEasy.Models
 {
-    public class SeedData
+    public static class SeedData
     {
         public static void EnsurePopulated(IApplicationBuilder app)
         {

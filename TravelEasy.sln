@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelEasy", "TravelEasy\TravelEasy.csproj", "{7B78D669-3157-4053-BE34-17994169990B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelEasy", "TravelEasy\TravelEasy.csproj", "{7B78D669-3157-4053-BE34-17994169990B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelEasy.Tests", "TravelEasy.Tests\TravelEasy.Tests.csproj", "{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelEasy.Tests", "TravelEasy.Tests\TravelEasy.Tests.csproj", "{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
