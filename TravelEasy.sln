@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelEasy", "TravelEasy\TravelEasy.csproj", "{7B78D669-3157-4053-BE34-17994169990B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelEasy.Tests", "TravelEasy.Tests\TravelEasy.Tests.csproj", "{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{7B78D669-3157-4053-BE34-17994169990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B78D669-3157-4053-BE34-17994169990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B78D669-3157-4053-BE34-17994169990B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7EFA85A-DF7E-4D30-A8DD-394F5DD56A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
