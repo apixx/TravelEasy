@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using TravelEasy.Models;
 using TravelEasy.Models.ViewModels;
 
 namespace TravelEasy.Controllers
@@ -16,6 +17,7 @@ namespace TravelEasy.Controllers
         {
             userManager = userMgr;
             signInManager = signInMgr;
+            IdentitySeedData.EnsurePopulated(userMgr).Wait();
         }
 
         [AllowAnonymous]
